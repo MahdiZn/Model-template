@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/loli/NewDVC/model-template/src/models/mlruns/0/e798de7dca9e4477ab286f511a72f824/artifacts
+end_time: 1669210254301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e798de7dca9e4477ab286f511a72f824
+run_uuid: e798de7dca9e4477ab286f511a72f824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669210242948
+status: 3
+tags: []
+user_id: loli
